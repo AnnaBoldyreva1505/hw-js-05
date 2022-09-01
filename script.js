@@ -85,3 +85,75 @@
 //   // Change code above this line
 // };
 
+
+// ====== Задача 4 =========
+// Измени код так, чтобы объект parent стал прототипом для объекта в переменной сhild.
+
+// const parent = {
+//   name: "Stacey",
+//   surname: "Moore",
+//   age: 54,
+//   heritage: "Irish",
+// };
+// // Change code below this line
+
+// const child = Object.create(parent);
+
+// // Change code above this line
+// child.name = "Jason";
+// child.age = 27;
+
+// ====== Задача 5 =========
+// Измени код, построив цепочку прототипов так, чтобы объект ancestor был прототипом для parent, а тот в свою очередь был прототипом для child.
+// const ancestor = {
+//   name: "Paul",
+//   age: 83,
+//   surname: "Dawson",
+//   heritage: "Irish",
+// };
+// // Change code below this line
+
+// const parent = Object.create(ancestor);
+// parent.name = "Stacey";
+// parent.surname = "Moore";
+// parent.age = 54;
+
+// const child = Object.create(parent);
+// child.name = "Jason";
+// child.age = 27;
+
+// // Change code above this line
+
+
+// ====== Задача 6 =========
+
+
+// ====== Задача 7 =========
+
+// ====== Задача 8 =========
+
+
+// ====== Задача 9 =========
+
+// ====== Задача 10 =========
+
+
+// ====== Задача 11 =========
+// ====== Задача 12 =========
+
+
+// ====== Задача 13 =========
+
+// ====== Задача 14 =========
+
+// ====== Задача 15 =========
+
+
+// ====== Задача 16 =========
+
+// ====== Задача 17 =========
+
+
+// ====== Задача 18 =========
+// ====== Задача 19 =========
+// ====== Задача 20 =========
